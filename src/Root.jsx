@@ -8,7 +8,7 @@ import Footer from "./Footer";
 
 const Root = () => {
     return (
-        <div className=" bg-[#071952]  " >
+        <div className=" bg-[#030637]  " >
 
             <div>
 
