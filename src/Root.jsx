@@ -1,3 +1,6 @@
+import { Outlet } from "react-router-dom";
+import Nav from "./Nav";
+import Footer from "./Footer";
 
 
 
@@ -5,21 +8,13 @@
 
 const Root = () => {
     return (
-        <div >
+        <div className=" bg-[#071952]  " >
 
             <div>
 
-
-
-
-
-
-
-
-
-
-
-
+            <Nav></Nav>
+            <Outlet></Outlet>
+            <Footer></Footer>
 
             </div>
             
