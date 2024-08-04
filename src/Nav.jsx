@@ -9,7 +9,7 @@ const Nav = () => {
        <li className=" text-[#40F8FF]" ><NavLink to="/about" >About Us</NavLink></li>
        <li className=" text-[#40F8FF]" ><NavLink to="/re" >Research</NavLink></li>
        <li className=" text-[#40F8FF]" ><NavLink to="/li" >library</NavLink></li>
-       <li className=" text-[#40F8FF]" ><NavLink to="/ac" >academy</NavLink></li>
+       <li className=" text-[#40F8FF]" ><NavLink to="/sci" >Science</NavLink></li>
     
     </>
 

@@ -6,7 +6,7 @@ const Skills = () => {
         <div className=" mb-10 mt-10 ml-5 mr-5">
 
 
-            <div className=" flex justify-center  gap-20">
+            <div className=" flex-col md:flex-row lg:flex-row flex justify-center  gap-20">
 
 
                <div className=" text-[#40F8FF]">

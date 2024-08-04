@@ -9,6 +9,9 @@ import {
 import Root from './Root';
 import Home from './Home';
 import About from './about file/About';
+import Research from './Research';
+import Library from './Library';
+import Science from './Science';
 
 const router = createBrowserRouter([
   {
@@ -22,6 +25,18 @@ const router = createBrowserRouter([
       {
         path: "/about",
         element:    <About></About> ,
+      },
+      {
+        path: "/re",
+        element:  <Research></Research> ,
+      },
+      {
+        path: "/li",
+        element:   <Library></Library>  ,
+      },
+      {
+        path: "/sci",
+        element:  <Science></Science>  ,
       },
     ],
   },
