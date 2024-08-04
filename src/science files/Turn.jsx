@@ -5,7 +5,7 @@ const Turn = () => {
         <div className="  mb-10 mt-10 ml-5 mr-5">
 
 
-            <div className=" flex justify-center items-center gap-20">
+            <div className=" flex-col md:flex-row lg:flex-row flex justify-center items-center gap-20">
 
 
 
