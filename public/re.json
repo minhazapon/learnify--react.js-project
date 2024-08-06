@@ -1,0 +1,42 @@
+[
+ {  
+    "image":"https://img.freepik.com/premium-photo/abstract-background-350_994728-9.jpg?w=740",
+    "name":"Physics",
+    "details":"Research studies are systematic investigations conducted to increase knowledge, establish facts, and reach new conclusions. They can be classified into different types based on methodology, objectives, and the nature of the data collected."
+
+ },
+ {  
+    "image":"https://img.freepik.com/premium-vector/scientific-vector-background-with-chemical-elements-symbols-white-smoke_53562-4352.jpg?w=740",
+    "name":"Chemistry",
+    "details":"Research studies are systematic investigations conducted to increase knowledge, establish facts, and reach new conclusions. They can be classified into different types based on methodology, objectives, and the nature of the data collected."
+
+ },
+ {  
+    "image":"https://img.freepik.com/premium-photo/exploring-world-biology-through-microscope-revealing-realistic-perspective_117038-19017.jpg?w=826",
+    "name":"Biology",
+    "details":"Research studies are systematic investigations conducted to increase knowledge, establish facts, and reach new conclusions. They can be classified into different types based on methodology, objectives, and the nature of the data collected."
+
+ },
+ {  
+    "image":"https://img.freepik.com/free-photo/one-person-standing-determined-extreme-adventure-generated-by-ai_188544-37275.jpg?t=st=1722918222~exp=1722921822~hmac=c397dd49e7c1e06cb450abdf5058aea2cd76fdf6c1f2e39930daa6f4dddf947b&w=826",
+    "name":"Astronomy",
+    "details":"Research studies are systematic investigations conducted to increase knowledge, establish facts, and reach new conclusions. They can be classified into different types based on methodology, objectives, and the nature of the data collected."
+
+ },
+ {  
+    "image":"https://img.freepik.com/premium-photo/closeup-rough-textured-rock-face-with-shades-gray-brown-black_14117-737940.jpg?w=826",
+    "name":"Geology",
+    "details":"Research studies are systematic investigations conducted to increase knowledge, establish facts, and reach new conclusions. They can be classified into different types based on methodology, objectives, and the nature of the data collected."
+
+ },
+ {  
+    "image":"https://img.freepik.com/premium-photo/person-utilizing-ai-tools-daily-tasks_23-2150879483.jpg?w=740",
+    "name":"Robotics",
+    "details":"Research studies are systematic investigations conducted to increase knowledge, establish facts, and reach new conclusions. They can be classified into different types based on methodology, objectives, and the nature of the data collected."
+  
+
+ }
+
+
+
+]

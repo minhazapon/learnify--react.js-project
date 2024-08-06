@@ -1,0 +1,34 @@
+[
+ {
+    "image":"https://img.freepik.com/premium-photo/bookstore-with-books-trees-evening-3d-rendering_1015980-601362.jpg?w=826",
+    "name":"BookHaven",
+    "details":"Libraries are institutions that collect, organize, preserve, and provide access to information and knowledge. They serve as vital resources for education, research, and community engagement. "
+ },
+ {
+    "image":"https://img.freepik.com/free-photo/abundant-collection-antique-books-wooden-shelves-generated-by-ai_188544-29660.jpg?t=st=1722920255~exp=1722923855~hmac=7cbb68ae33ca338ed2b89d269fcd871facf0d6bd2251626b8805818cccaaaef6&w=826",
+    "name":"LibraryVerse",
+    "details":"Libraries are institutions that collect, organize, preserve, and provide access to information and knowledge. They serve as vital resources for education, research, and community engagement. "
+ },
+ {
+    "image":"https://img.freepik.com/free-photo/cafe-frankfurt-germany_1268-20912.jpg?t=st=1722920268~exp=1722923868~hmac=55b48d6021f75cc2702d6350836d134b6a78811a15274ea984577d16530e81ef&w=740",
+    "name":"ReadLoom",
+    "details":"Libraries are institutions that collect, organize, preserve, and provide access to information and knowledge. They serve as vital resources for education, research, and community engagement. "
+ },
+ {
+    "image":"https://img.freepik.com/free-photo/large-collection-old-books-wooden-shelves-generated-by-ai_188544-29739.jpg?t=st=1722920283~exp=1722923883~hmac=2242e5039f47fbc1358369f4581d78836276e75e0bd3bdd719a3c934ff8c19c6&w=826",
+    "name":"NovelNest",
+    "details":"Libraries are institutions that collect, organize, preserve, and provide access to information and knowledge. They serve as vital resources for education, research, and community engagement. "
+ },
+ {
+    "image":"https://img.freepik.com/premium-photo/sleek-sophisticated-contemporary-bookshelf-with-elegant-design-showcasing-photorealistic_763042-2979.jpg?w=740",
+    "name":"Literary Lair",
+    "details":"Libraries are institutions that collect, organize, preserve, and provide access to information and knowledge. They serve as vital resources for education, research, and community engagement. "
+ },
+ {
+    "image":"https://img.freepik.com/premium-photo/school-library-with-tall-bookshelves-wallpaper_987764-125539.jpg?w=740",
+    "name":"TomeTree Library",
+    "details":"Libraries are institutions that collect, organize, preserve, and provide access to information and knowledge. They serve as vital resources for education, research, and community engagement. "
+ }
+
+
+]

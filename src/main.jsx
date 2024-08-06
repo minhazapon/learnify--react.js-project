@@ -12,6 +12,8 @@ import About from './about file/About';
 import Research from './Research';
 import Library from './Library';
 import Science from './Science';
+import Login from './firebase/Login';
+import SignUp from './firebase/SignUp';
 
 const router = createBrowserRouter([
   {
@@ -37,6 +39,14 @@ const router = createBrowserRouter([
       {
         path: "/sci",
         element:  <Science></Science>  ,
+      },
+      {
+        path: "/login",
+        element:   <Login></Login>  ,
+      },
+      {
+        path: "/up",
+        element:  <SignUp></SignUp> ,
       },
     ],
   },
